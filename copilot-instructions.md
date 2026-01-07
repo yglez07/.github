@@ -8,8 +8,8 @@ All SQL generated should follow these conventions unless explicitly overridden.
 ---
 
 ## 1. General SQL Standards
-- Use **uppercase** for SQL keywords (SELECT, JOIN, WHERE).
-- Use **lowercase** for identifiers (table names, column names, aliases).
+- Use **lowercase** for SQL keywords (SELECT, JOIN, WHERE).
+- Use **uppercase** for identifiers (table names, column names, aliases).
 - Avoid `SELECT *`; always specify explicit columns.
 - Use **meaningful, consistent aliases** (src, stg, xform, tgt, dim, fact).
 - Prefer **CTEs** or **temp tables** for multi-step transformations.
