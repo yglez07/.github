@@ -1,4 +1,4 @@
-/*****************************************************
+
 # Copilot Ruleset for ETL SQL Development (SSMS)
 
 ## Purpose
@@ -154,4 +154,4 @@ All generated SQL should be:
 - ETL‑friendly  
 - Safe to execute in batch pipelines  
 
-*/
+
