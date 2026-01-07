@@ -6,6 +6,8 @@ These rules guide Copilot to generate clean, secure, maintainable, and productio
 All SQL generated should follow these conventions unless explicitly overridden.
 
 ---
+## Goal
+--selecione los services plans, lines and lines details. uses the database ecare_KP_NCAL
 
 ## 1. General SQL Standards
 - Use **lowercase** for SQL keywords (SELECT, JOIN, WHERE).
